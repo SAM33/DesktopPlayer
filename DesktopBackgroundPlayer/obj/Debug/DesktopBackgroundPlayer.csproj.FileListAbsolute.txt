@@ -1,0 +1,16 @@
+c:\users\shuosan\documents\visual studio 2015\Projects\DesktopBackgroundPlayer\DesktopBackgroundPlayer\bin\Debug\DesktopBackgroundPlayer.exe.config
+c:\users\shuosan\documents\visual studio 2015\Projects\DesktopBackgroundPlayer\DesktopBackgroundPlayer\bin\Debug\DesktopBackgroundPlayer.exe
+c:\users\shuosan\documents\visual studio 2015\Projects\DesktopBackgroundPlayer\DesktopBackgroundPlayer\bin\Debug\DesktopBackgroundPlayer.pdb
+c:\users\shuosan\documents\visual studio 2015\Projects\DesktopBackgroundPlayer\DesktopBackgroundPlayer\obj\Debug\DesktopBackgroundPlayer.csprojResolveAssemblyReference.cache
+c:\users\shuosan\documents\visual studio 2015\Projects\DesktopBackgroundPlayer\DesktopBackgroundPlayer\obj\Debug\MainWindow.g.cs
+c:\users\shuosan\documents\visual studio 2015\Projects\DesktopBackgroundPlayer\DesktopBackgroundPlayer\obj\Debug\App.g.cs
+c:\users\shuosan\documents\visual studio 2015\Projects\DesktopBackgroundPlayer\DesktopBackgroundPlayer\obj\Debug\DesktopBackgroundPlayer_MarkupCompile.cache
+c:\users\shuosan\documents\visual studio 2015\Projects\DesktopBackgroundPlayer\DesktopBackgroundPlayer\obj\Debug\DesktopBackgroundPlayer_MarkupCompile.lref
+c:\users\shuosan\documents\visual studio 2015\Projects\DesktopBackgroundPlayer\DesktopBackgroundPlayer\obj\Debug\MainWindow.baml
+c:\users\shuosan\documents\visual studio 2015\Projects\DesktopBackgroundPlayer\DesktopBackgroundPlayer\obj\Debug\DesktopBackgroundPlayer.g.resources
+c:\users\shuosan\documents\visual studio 2015\Projects\DesktopBackgroundPlayer\DesktopBackgroundPlayer\obj\Debug\DesktopBackgroundPlayer.Properties.Resources.resources
+c:\users\shuosan\documents\visual studio 2015\Projects\DesktopBackgroundPlayer\DesktopBackgroundPlayer\obj\Debug\DesktopBackgroundPlayer.csproj.GenerateResource.Cache
+c:\users\shuosan\documents\visual studio 2015\Projects\DesktopBackgroundPlayer\DesktopBackgroundPlayer\obj\Debug\DesktopBackgroundPlayer.exe
+c:\users\shuosan\documents\visual studio 2015\Projects\DesktopBackgroundPlayer\DesktopBackgroundPlayer\obj\Debug\DesktopBackgroundPlayer.pdb
+c:\users\shuosan\documents\visual studio 2015\Projects\DesktopBackgroundPlayer\DesktopBackgroundPlayer\obj\Debug\Player.g.cs
+c:\users\shuosan\documents\visual studio 2015\Projects\DesktopBackgroundPlayer\DesktopBackgroundPlayer\obj\Debug\Player.baml
